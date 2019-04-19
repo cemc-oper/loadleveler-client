@@ -16,7 +16,7 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
 
-    url='https://github.com/perillaroc/nwpc-operation-system-tool',
+    url='https://github.com/nwpc-oper/loadleveler-client',
 
     author='perillaroc',
     author_email='perillaroc@gmail.com',
