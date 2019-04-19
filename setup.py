@@ -44,7 +44,7 @@ setup(
     install_requires=[
         'pyyaml',
         'click',
-        'nwpc-hpc-model'
+        'nwpc-hpc-model<=0.3.2'
     ],
 
     entry_points={
