@@ -8,7 +8,7 @@ from nwpc_hpc_model.workload.loadleveler import (
     QueryCategory, QueryCategoryList, LoadLevelerQueryModel,
     record_parser, value_saver
 )
-from nwpc_hpc_model.workload.query_item import get_property_data
+from nwpc_hpc_model.base.query_item import get_property_data
 
 
 config_file_name = "llclient.config.yml"

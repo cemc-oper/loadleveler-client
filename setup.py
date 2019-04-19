@@ -38,7 +38,7 @@ setup(
 
     include_package_data=True,
     package_data={
-        'loadleveler_client': ['conf/*.config']
+        'loadleveler_client': ['conf/*.yml']
     },
 
     install_requires=[
